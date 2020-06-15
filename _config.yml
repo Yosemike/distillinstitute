@@ -24,8 +24,7 @@ description              : "Just testing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Distill"
 repository               : "yosemike/distill"
-header:
-  teaser                   : "/assets/images/teaser.header.jpg"
+teaser                   : "/assets/images/teaser.header.jpg"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

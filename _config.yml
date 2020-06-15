@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : Quick tools for better health, habits and productivity.
 name                     : "Mike"
-description              : "An amazing website."
+description              : "Just testing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Distill-mistakes"
 repository               : "yosemike/distill-mistakes"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : smikelim
 facebook:
   username               :
   app_id                 :

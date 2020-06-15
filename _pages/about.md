@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+date: 2020-06-12
+author: Mike Lim
+Permalink: /link/
 ---
 
-sample about
+This is the about page

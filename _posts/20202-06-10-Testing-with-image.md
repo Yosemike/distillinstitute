@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Welcome to Jekyll!
+title: Testing with image 
 date: 2020-06-14
 author: Mike Lim
 header:

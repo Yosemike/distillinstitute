@@ -6,8 +6,8 @@ category: health
 date: 2020-05-18
 author_profile: true
 tags:
-	- diet
-	- Food
+- diet
+- Food
 teader:
 	overlay_image: https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1462&q=80
 	Caption: “Photo credit [**Unsplash**](https://unsplash.com/photos/bQLCyj-9-tk)”

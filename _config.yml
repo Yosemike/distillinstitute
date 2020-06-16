@@ -22,7 +22,7 @@ subtitle                 : Quick tools for better health, habits and productivit
 name                     : "Mike"
 description              : "Just testing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/distill"
+baseurl                  : "/Distill"
 repository               : "yosemike/distill"
 header:
   teaser                   : "/assets/images/teaser.header.jpg"

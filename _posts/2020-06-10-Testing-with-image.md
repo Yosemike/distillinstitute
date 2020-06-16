@@ -9,6 +9,7 @@ categories:
   - Jekyll
 tags:
   - update
+  - tools
 ---
 
 Testing another post with image and tags

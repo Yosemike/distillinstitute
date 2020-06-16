@@ -9,11 +9,11 @@ tags:
 - diet
 - Food
 teader:
-	overlay_image: https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1462&q=80
-	Caption: “Photo credit [**Unsplash**](https://unsplash.com/photos/bQLCyj-9-tk)”
-	actions:
-		- label: “Start Here”  
-			url: “https://yosemike.github.io/Distill/start-here/”
+overlay_image: https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1462&q=80
+Caption: “Photo credit [**Unsplash**](https://unsplash.com/photos/bQLCyj-9-tk)”
+actions:
+- label: “Start Here”  
+url: “https://yosemike.github.io/Distill/start-here/”
 ---
 
 Who would have thought 3 eggs and a cup of coffee can make so much a difference to a life thrown into chaos?  Not me. Fresh out of university, I had no hobby. All I do after a long day of work is browsing YouTube until I pass out to wake for another day of dull grinding. Most things in my life were left to chances and I hit the auto-pilot button right after I came out of university. What happened to hopes and dreams? Do I even have them? Isn't there more to life? The dying voice in me told me, just go find out, it's not like you have much to lose.

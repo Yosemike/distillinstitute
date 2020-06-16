@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Michael"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Who?"
-  location         : "here"
+  bio              : "Write"
+  location         : # "here"
   email            :
   links:
   links:

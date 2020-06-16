@@ -3,7 +3,7 @@ permalink: /start-here/
 title: "Start Here"
 excerpt: "Turns knowledge into actionable wisdom"
 Header:
-image: https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2831&q=80 
+image: /assets/images/main.header.page.jpg
 ---
 
 Knowledge is knowing vegetables are good for us, wisdom is eating them.

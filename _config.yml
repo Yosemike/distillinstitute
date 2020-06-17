@@ -24,7 +24,8 @@ description              : "Just testing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Distill"
 repository               : "yosemike/distill"
-header                   : "/assets/images/main.page.header.jpg"
+header:
+  image: "/assets/images/main.page.header.jpg"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -92,7 +93,7 @@ analytics:
 
 
 # Site Author
-author: Mike Lim
+author:
   name             : "Michael"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Write"
@@ -146,7 +147,6 @@ footer:
 include:
   - .htaccess
   - "_pages"
-  - "subscription-form"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

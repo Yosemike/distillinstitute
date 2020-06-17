@@ -97,6 +97,7 @@ author: Mike Lim
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Write"
   location         : # "here"
+  {% include subscription-form.html %}
   email            :
   links:
   links:

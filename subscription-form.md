@@ -1,4 +1,10 @@
-{% if page.subscription-form %}
+---
+layout: page
+title: subscribe
+---
+
+Sign up here
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -19,4 +25,3 @@
 </div>
 
 <!--End mc_embed_signup-->
-{% endif %}

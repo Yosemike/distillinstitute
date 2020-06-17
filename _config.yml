@@ -97,7 +97,6 @@ author: Mike Lim
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Write"
   location         : # "here"
-  {% include subscription-form.html %}
   email            :
   links:
   links:
@@ -119,6 +118,7 @@ author: Mike Lim
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+  {% include subscription-form.html %}
 
 # Site Footer
 footer:
@@ -147,6 +147,7 @@ footer:
 include:
   - .htaccess
   - "_pages"
+  - "subscription-form"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

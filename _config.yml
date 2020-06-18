@@ -88,7 +88,7 @@ social:
 analytics:
   provider               : "google-universal"
   google:
-    tracking_id          : "UA-169852582-1 gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id."
+    tracking_id          : "UA-169852582-1"
     anonymize_ip         : false (default)
 
 

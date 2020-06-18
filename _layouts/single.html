@@ -7,7 +7,7 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
-      {% if page.share %}{% include social-share.html %}{% endif %}
+
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
@@ -54,7 +54,7 @@ layout: default
         {% include page__date.html %}
       </footer>
 
-
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>

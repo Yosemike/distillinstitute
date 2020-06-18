@@ -96,9 +96,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael"
+  name             : "Mike Lim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Write"
+  bio              : "Obsessed with getting to the point."
   location         : # "here"
   email            :
   links:
@@ -289,7 +289,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
 
@@ -299,5 +299,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single 
+      share: true
       author_profile: true

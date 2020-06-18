@@ -22,7 +22,7 @@ subtitle                 : Quick tools for better health, habits and productivit
 name                     : "Mike"
 description              : "Just testing"
 url                      : "https://distillinstitute.com/"
-baseurl                  : "/distillinstitute"
+baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
 header:
   image: "/assets/images/main.page.header.jpg"

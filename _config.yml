@@ -26,7 +26,7 @@ baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
 header:
   image: "/assets/images/main.page.header.jpg"
-logo                     : "/assets/images/88x88.png"
+logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

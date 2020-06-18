@@ -80,9 +80,11 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   :  Person
+  name                   :  Mike Lim
+  links:
+    - "https://twitter.com/smikelim"
+    - "https://instagram.com/moolarlar"
 
 # Analytics
 analytics:
@@ -107,7 +109,8 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-       url: "https://twitter.com/smikelim"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/smikelim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

@@ -33,6 +33,8 @@ layout: default
         </header>
       {% endunless %}
 
+      {% if page.share %}{% include social-share.html %}{% endif %}
+      
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -53,8 +55,6 @@ layout: default
         {% include page__taxonomy.html %}
         {% include page__date.html %}
       </footer>
-
-      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>

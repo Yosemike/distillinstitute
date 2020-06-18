@@ -107,7 +107,6 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
        url: "https://twitter.com/smikelim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"

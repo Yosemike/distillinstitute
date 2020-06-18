@@ -4,7 +4,7 @@ title: set your meals, set your life.
 excerpt: “Throw order into chaos.”
 category: health
 date: 2020-05-18
-author: Mike Lim 
+author_profile: true
 tags:
 - diet
 - Food

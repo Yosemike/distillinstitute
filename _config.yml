@@ -98,8 +98,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Write"
   location         : # "here"
-  email            : michaellimkangmin@gmail.com
-  links:
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -109,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://twitter.com/smikelim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -118,7 +117,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/moolarlar/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:

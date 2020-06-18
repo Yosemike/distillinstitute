@@ -86,10 +86,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-169852582-1 gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id."
+    anonymize_ip         : false (default)
 
 
 # Site Author

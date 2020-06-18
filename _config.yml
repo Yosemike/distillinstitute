@@ -100,6 +100,7 @@ author:
   location         : # "here"
   email            : michaellimkangmin@gmail.com
   links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -117,7 +118,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/moolarlar/"
+      # url: "https://instagram.com/moolarlar/"
 
 # Site Footer
 footer:

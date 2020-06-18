@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : Quick tools for better health, habits and productivity.
 name                     : "Mike"
 description              : "Just testing"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://distillinstitute.com/"
 baseurl                  : "/distillinstitute"
 repository               : "yosemike/distillinstitute"
 header:

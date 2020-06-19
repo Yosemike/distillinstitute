@@ -5,10 +5,10 @@ title: "Start Here"
 excerpt: "Starter kits to live healthier, think better and create more"
 header:
   overlay_image: /assets/images/start.here.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Hunter Haley**](https://unsplash.com/@hnhmarketing)"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "Get access"
+      url: "https://mailchi.mp/f306997af5d5/quick-tools"
 Author_profile: true
 Share: true
 ---
@@ -23,6 +23,12 @@ No matter the level of perfection, there’s always room for improvement, it’s
 
 While I never became the next Michael Jordan that I fully expected myself to be, I learned a few things about being a better person and I’d like to share them with you.
 
-My content here has just three focuses. There’s more to life but upon better **health, ideas and productivity** we will build our lives.  
+My content here has just three focuses.
+
+1. Health
+2. Ideas
+3. Productivity
+
+> There’s more to life but upon better **habits** we will build our lives.  
 
 Thanks for being here with me, buddy.

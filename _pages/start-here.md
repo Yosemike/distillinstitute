@@ -3,7 +3,11 @@ permalink: /start-here/
 title: "Start Here"
 excerpt: "Starter kits to live healthier, think better and create more"
 Header:
-image: /assets/images/Start-here.jpg/
+Overlay_image: /assets/images/Start-here.jpg/
+Caption: “Photo credit”
+Actions:
+- label: “Subscribe”
+URL: “”
 Author_profile: true
 ---
 

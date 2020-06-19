@@ -16,6 +16,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes", :tag => "4.19.3"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'tzinfo-data'
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -27,4 +28,5 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-archives"
+  gem "jekyll-sitemap"
 end

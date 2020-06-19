@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : Quick tools for better health, habits and productivity.
 name                     : "Mike"
 description              : "Just testing"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/distillinstitute"
+url                      : "https://distillinstitute.com/"
+baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
 header:
   image: "/assets/images/main.page.header.jpg"
-logo                     : "/assets/images/88x88.png"
+logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,9 +80,11 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   :  Person
+  name                   :  Mike Lim
+  links:
+    - "https://twitter.com/smikelim"
+    - "https://instagram.com/moolarlar"
 
 # Analytics
 analytics:
@@ -94,12 +96,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael"
+  name             : "Mike Lim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Write"
+  bio              : "Obsessed with getting to the point."
   location         : # "here"
-  email            : michaellimkangmin@gmail.com
-  links:
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -109,7 +110,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/smikelim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -118,14 +119,14 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/moolarlar"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/smikelim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -140,7 +141,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/moolarlar"
 
 
 # Reading Files
@@ -298,5 +299,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single 
+      share: true
       author_profile: true

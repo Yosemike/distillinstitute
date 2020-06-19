@@ -1,6 +1,7 @@
 ---
 permalink: /start-here/
 title: "Start Here"
+layout: single
 excerpt: "Starter kits to live healthier, think better and create more"
 Header:
 Overlay_image: /assets/images/Start-here.jpg/

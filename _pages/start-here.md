@@ -1,11 +1,12 @@
 ---
+layout: single
 permalink: /start-here/
 title: "Start Here"
-layout: single
 excerpt: "Starter kits to live healthier, think better and create more"
 Header:
 Overlay_image: /assets/images/Start-here.jpg/
 Author_profile: true
+Share: true
 ---
 
 Knowledge is knowing vegetables are good, wisdom is eating ‘em. And I’m all about eating vegetables here. 

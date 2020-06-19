@@ -3,7 +3,7 @@ permalink: /start-here/
 title: "Start Here"
 excerpt: "Starter kits to live healthier, think better and create more"
 Header:
-	image: /assets/images/Start-here.jpg/
+image: /assets/images/Start-here.jpg/
 ---
 
 Knowledge is knowing vegetables are good, wisdom is eating ‘em. And I’m all about eating vegetables here. 

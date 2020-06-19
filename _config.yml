@@ -24,8 +24,10 @@ description              : "Just testing"
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
+excerpt: ""
 header:
-  image: "/assets/images/main.page.header.jpg"
+  overlay_image: /assets/images/main.page.header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

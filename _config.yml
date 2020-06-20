@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Distill Institute"
 title_separator          : "-"
 subtitle                 : Health. Ideas. Productivity.
 name                     : "Mike"
-description              : "Just testing"
+description              : "Quick tools that you can use to improve your health, ideas and productivity. Better habits, better life."
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"

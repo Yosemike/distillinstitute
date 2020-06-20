@@ -18,4 +18,6 @@ I read to learn and to be entertained. This is a compilation of lessons I found 
 # Only the Paranoid Survive by (). 
 
 
-# 
+# Art of learning
+
+This is the book that I keep coming back to because the if we know how to learn, then the world of possibilities is opened to us.

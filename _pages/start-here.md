@@ -13,13 +13,13 @@ Author_profile: true
 Share: true
 ---
 
-Knowledge is knowing vegetables are good, wisdom is eating ‘em. And I’m all about eating vegetables here. 
+Knowledge is knowing how to clean a window, wisdom is cleaning it. And it’s all about cleaning window here, for our clarity and sanity.
 
-I extract lessons that help build better habits and compress the learnings into tools you can use with ease. 
+I love to learn but the lessons don’t always stick with me. So I extract the learnings that can help build better habits and compress them into tools we can use here. 
 
 > Time is running out for all of us, I’ll use mine so you don’t have to waste yours.
 
-No matter the level of perfection, there’s always room for improvement, it’s an axiom I will never let die. It’s also what I told 13 year-old me who loved playing basketball. 
+No matter the level of perfection, there’s always room for improvement, it’s an axiom I’ll never let die. It’s also what I told 13 year-old me who loved playing basketball. 
 
 While I never became the next Michael Jordan that I fully expected myself to be, I learned a few things about being a better person and I’d like to share them with you.
 
@@ -30,5 +30,20 @@ My content here has just three focuses.
 3. Productivity
 
 > There’s more to life but upon better **habits** we will build our lives.  
+
+Here’s some tools for you to try right away.
+
+## Health - Intermittent fasting
+
+[]()
+
+## Ideas - bullet journaling
+
+[]()
+
+## Productivity - pomodoro method
+
+On iOS 
+On android
 
 Thanks for being here with me, buddy.

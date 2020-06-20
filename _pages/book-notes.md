@@ -2,7 +2,7 @@
 layout: single
 permalink: /book-notes/
 title: "Book Notes"
-excerpt: "Learnings from books"
+excerpt: "Learnings from books I’ve read"
 header:
   overlay_image: /assets/images/book.notes.jpg
   caption: "Photo credit: [**Patrick Tomasso**](https://unsplash.com/@impatrickt)"
@@ -13,4 +13,9 @@ Author_profile: true
 Share: true
 ---
 
-I read to learn and to be entertained. This page is a compilation of lessons I found to be useful, ideas that inspired me or stories that evoke an emotion.
+I read to learn and to be entertained. This is a compilation of lessons I found to be useful, ideas that inspired me or stories that evoke an emotion.
+
+# Only the Paranoid Survive by (). 
+
+
+# 

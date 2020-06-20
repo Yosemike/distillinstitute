@@ -1,9 +1,16 @@
 ---
+layout: single
 permalink: /book-notes/
 title: "Book Notes"
-excerpt: "Key learnings from books"
-Header:
-image: #
+excerpt: "Learnings from books"
+header:
+  overlay_image: /assets/images/book.notes.jpg
+  caption: "Photo credit: [**Patrick Tomasso**](https://unsplash.com/@impatrickt)"
+  actions:
+    - label: "Learn more"
+      url: "https://mailchi.mp/f306997af5d5/quick-tools"
+Author_profile: true
+Share: true
 ---
 
-This is the page for book notes in short.
+I read to learn and to be entertained. This page is a compilation of lessons I found to be useful, ideas that inspired me or stories that evoke an emotion.

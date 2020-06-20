@@ -24,8 +24,7 @@ description              : "Quick tools that you can use to improve your health,
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
-header :
- image : /assets/images/main.page.jpg
+teaser                   : /assets/images/main.page.jpg 
 logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

@@ -35,14 +35,23 @@ This blog has just three focuses:
 
 > There’s more to life but upon better **habits** we will build our lives.  
 
+
 Here’s some tools for you to try right away.
 
-## Stay lean by just tweaking one habit, how intermittent fasting helped me to stay healthy and disciplined for 5 years and counting?
+# Health
+
+## Intermittent fasting: stay lean, fit and focused. 
 
 []()
 
-### How to start?
 #### Step 1
+Break your day into 2 windows, eating and fasting window. In the spirit of simplicity, set your eating window to 8 hours and fasting window to 16 hours. 
+
+Eating window  = hours that you eat
+Fasting window = hours that you don’t eat
+
+#### Step 2
+Decide which is more important
 Decide which 8 hours will be your eating window, are you more willing to skip breakfast or would dinner be easier to miss?
 
 #### Step 2

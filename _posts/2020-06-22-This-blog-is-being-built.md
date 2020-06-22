@@ -3,7 +3,7 @@ layout: single
 title: This blog is being built 
 excerpt: "The content is coming soon. Read *start here* and *book notes*, subscribe for updates"
 Header: 
- Overlay_image: /assets/images/Under.construction.jpg
+ Overlay_image: /assets/images/under.jpg
  Caption: “Photo credit [Christopher Burns](instagram.com/Christopher__burns)”
  Actions:
   - label: “Subscribe”

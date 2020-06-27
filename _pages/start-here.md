@@ -5,6 +5,7 @@ title: "Start Here"
 excerpt: "Starter kits to live healthier, think better and create more"
 header:
   overlay_image: /assets/images/start.here.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**Hunter Haley**](https://unsplash.com/@hnhmarketing)"
   actions:
     - label: "Get access"

@@ -5,6 +5,7 @@ title: "Book Notes"
 excerpt: "Learnings from books I’ve read"
 header:
   overlay_image: /assets/images/book.notes.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**Patrick Tomasso**](https://unsplash.com/@impatrickt)"
   actions:
     - label: "Learn more"

@@ -4,7 +4,7 @@ title: Context and Promise of this blog
 excerpt: "Here, I document tools I used and lessons I learned to have better health, ideas and productivity. "
 header:
  overlay_image: /assets/images/General.jpeg
- overlay_filter: 1
+ overlay_filter: 0.5
  caption: "Photo credit: [**Patrick Tomasso**](https://www.instagram.com/impatrickt/)"
  actions:
  - label: "Subscribe"

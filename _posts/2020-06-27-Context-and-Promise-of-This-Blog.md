@@ -1,9 +1,10 @@
 ---
 layout: single
 title: Context and Promise of this blog
-excerpt: "Here, I document tools I used and lessons I learned to have better health, ideas and productivity for anyone that may find them useful. I post weekly and send a newsletter every Tuesday that include three things I curate that week, they can be a quote from a book, a gadget I discovered, an App, movies that inspired me - all kind of things that add values to my life. I hope you enjoy the content as much as I create them. "
+excerpt: "Here, I document tools I used and lessons I learned to have better health, ideas and productivity. "
 header:
  overlay_image: /assets/images/General.jpeg
+ overlay_filter: 1
  caption: "Photo credit: [**Patrick Tomasso**](https://www.instagram.com/impatrickt/)"
  actions:
  - label: "Subscribe"

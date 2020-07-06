@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Touch Type: better focus, posture and creativity
+title: Touch Type, better focus, posture and creativity
 excerpt: "Here, I document tools I used and lessons I learned to have better health, ideas and productivity. "
 header:
  overlay_image: /assets/images/touchtype.jpeg

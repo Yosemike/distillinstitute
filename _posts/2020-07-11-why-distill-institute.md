@@ -19,7 +19,7 @@ tags:
  - fitness
  - productivity
 ---
-## Compressed learnings
+# I want to learn how to be richer, fitter and sm
 
 Don’t you wish you can spend as little time as possible, and learn as much as possible?
 

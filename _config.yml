@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Distill Institute"
 title_separator          : "-"
-subtitle                 : Health. Ideas. Productivity.
+subtitle                 : Fitness. Money. Productivity.
 name                     : "Mike"
-description              : "Quick tools that you can use to improve your health, ideas and productivity. Better habits, better life."
+description              : "Quick tools to be healthier, richer and smarter.  that you can use to improve your health, ideas and productivity. Better habits, better life."
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
@@ -118,7 +118,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/moolarlar"
+      # url: "https://instagram.com/moolarlar"
 
 # Site Footer
 footer:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/moolarlar"
+      # url: "https://instagram.com/moolarlar"
 
 
 # Reading Files

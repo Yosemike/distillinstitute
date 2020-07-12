@@ -135,7 +135,7 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "MailChimp"
+    - label: "Newsletter"
       icon: "fab fa-mailchimp"
       url: https://mailchi.mp/f306997af5d5/quick-tools
     - label: "Instagram"

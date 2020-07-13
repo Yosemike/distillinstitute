@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /book-notes/
-title: "Book Notes"
+permalink: /subscribe/
+title: "Subscribe"
 excerpt: "Learnings from books I’ve read"
 header:
   overlay_image: /assets/images/book.notes.jpg

@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /start-here/
-title: "Start Here"
+permalink: /start/
+title: "Start"
 excerpt: "Starter kits to live healthier, think better and create more"
 header:
   overlay_image: /assets/images/start.here.jpg

@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Hunter Haley**](https://unsplash.com/@hnhmarketing)"
   actions:
     - label: "Get access"
-      url: "https://mailchi.mp/f306997af5d5/quick-tools"
+      url: "http://eepurl.com/g7u8ez"
 Author_profile: true
 Share: true
 ---

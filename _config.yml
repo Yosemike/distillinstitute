@@ -112,7 +112,7 @@ author:
       url: "https://twitter.com/distillmike"
     - label: "Subscribe"
       icon: "fab fa-mailchimp"
-      url: https://mailchi.mp/f306997af5d5/quick-tools
+      url: http://eepurl.com/g7u8ez
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Newsletter"
       icon: "fab fa-mailchimp"
-      url: https://mailchi.mp/f306997af5d5/quick-tools
+      url: http://eepurl.com/g7u8ez
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/moolarlar"

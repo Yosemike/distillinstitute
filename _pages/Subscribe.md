@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /subscribe/
+permalink: /speedskills/
 title: "Subscribe"
-excerpt: "Learnings from books I’ve read"
+excerpt: "Get skills fast. Live rich. Live fit. Live smart"
 header:
   overlay_image: /assets/images/book.notes.jpg
   overlay_filter: 0.5

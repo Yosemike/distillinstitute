@@ -18,4 +18,8 @@ This is a list of tools that have helped me to become richer, fitter and smarter
 
 I hope you will find them useful too.
 
+How to grow and earn on Twitter
+
+## [Twitter Cash Flow](https://gumroad.com/a/355562611) by Hero’s Journey
+
 *These links are affiliated. I only promote tools that I use because I believe in them*

@@ -14,4 +14,11 @@ Author_profile: true
 Share: true
 ---
 
-Join me.
+I share **3** tools **each** week for you to add to your arsenal of skills to get richer, fitter and smarter.
+
+It can be a productivity app, a book I love, financial tricks, an investment tip, a healthy recipe, an inspirational quote, a gadget, a workout program. 
+
+The weekly newsletter is no fluff, all wisdom.
+
+Join me in this journey to build our own empire.
+

@@ -16,15 +16,21 @@ Share: true
 
 # Want to know a secret of value?
 
-I discovered it the hard way after I’ve waste so much hours in “learning”.
+*Value is in what you do, not what you know. Just because you know something, it doesn’t mean that you’ve learned it.*
 
-Value is in what you do, not what you know. Just because you know something, it doesn’t mean that you’ve learned it. 
+To learn something, you must be able to apply what you learned to benefit yourself or others. 
 
-To learn something, you must be able to apply what you learned to benefit yourself or other.
+This blog is for you, if you want to take the express lane of learning and take actions.
 
-> Knowledge is knowing how to clean a window, wisdom is cleaning it. And it’s all about cleaning window here, for our clarity and sanity.
+I discovered it the hard way after I’ve wasted so much hours in “learning”.
 
-## Distill Institute is the essence of more than a decade’s learning on self-improvement. It’s for those who are looking to grow beyond what they’ve been given.
+> Knowledge is knowing how to earn money, wisdom is earning it. 
+
+And it’s all about action here, for our clarity and sanity.
+
+## Distill Institute is the result of more than a decade’s learning on self-improvement. 
+
+It’s for those who are looking to grow beyond what they’ve been given. If you believe excellence is achieved by deliberate practice and not mere talent, this is for you.
 
 I extract my learnings and compressed them into tools to build better habits for better health, wealth and ideas. 
 

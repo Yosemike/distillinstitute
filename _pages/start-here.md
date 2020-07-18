@@ -2,13 +2,13 @@
 layout: single
 permalink: /start/
 title: "Start"
-excerpt: "Starter kits to live healthier, think better and create more"
+excerpt: "How do we live a wealthier, healthier and wiser life."
 header:
   overlay_image: /assets/images/start.here.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Hunter Haley**](https://unsplash.com/@hnhmarketing)"
   actions:
-    - label: "Get access"
+    - label: "Subscribe"
       url: "http://eepurl.com/g7u8ez"
 Author_profile: true
 Share: true

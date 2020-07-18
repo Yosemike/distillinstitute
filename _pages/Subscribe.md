@@ -2,13 +2,13 @@
 layout: single
 permalink: /subscribe/
 title: "Subscribe"
-excerpt: "Get skills fast. Live rich. Live fit. Live smart"
+excerpt: "Weekly newsletter to learn skills fast. Live rich. Live fit. Live smart"
 header:
   overlay_image: /assets/images/book.notes.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Patrick Tomasso**](https://unsplash.com/@impatrickt)"
   actions:
-    - label: "Learn more"
+    - label: "Subscribe"
       url: "http://eepurl.com/g7u8ez"
 Author_profile: true
 Share: true
@@ -20,5 +20,7 @@ It can be a productivity app, a book I love, financial tricks, an investment tip
 
 The weekly newsletter is no fluff, all wisdom.
 
-Join me in this journey to build our own empire.
+[Join](http://eepurl.com/g7u8ez) me in this journey to build our own empire.
+
+Click [Subscribe](http://eepurl.com/g7u8ez).
 

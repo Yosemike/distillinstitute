@@ -14,4 +14,8 @@ Author_profile: true
 Share: true
 ---
 
-This is the affiliate page.
+This is a list of tools that have helped me to become richer, fitter and smarter.
+
+I hope you will find them useful too.
+
+*These links are affiliated. I only promote tools that I use because I believe in them*

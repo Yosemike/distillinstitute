@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Why does this blog exist?
-excerpt: "This blog is for you if you’ve wanted to learn skills to better health, wealth and productivity but don’t want to spend the time."
+title: I heard you want to learn skill.
+excerpt: "Here, you can find the tools to learn a skill fast. Welcome to Distill Institute. I break down the skills to get richer, fitter and smarter into simple building blocks so you can save time and focus on what matters.."
 header:
  overlay_image: /assets/images/General.jpeg
  overlay_filter: 0.5

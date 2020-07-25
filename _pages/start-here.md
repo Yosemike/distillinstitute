@@ -2,7 +2,7 @@
 layout: single
 permalink: /start/
 title: "Start"
-excerpt: "How do we live a wealthier, healthier and wiser life."
+excerpt: "What to expect?"
 header:
   overlay_image: /assets/images/start.here.jpg
   overlay_filter: 0.5
@@ -14,7 +14,7 @@ Author_profile: true
 Share: true
 ---
 
-# Want to know the secret of value?
+## Want to know the secret of value?
 
 *Value is in what you do, not what you know. Just because you know something, it doesn’t mean that you’ve learnt it.*
 

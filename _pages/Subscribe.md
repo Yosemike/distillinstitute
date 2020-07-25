@@ -2,7 +2,7 @@
 layout: single
 permalink: /subscribe/
 title: "Subscribe"
-excerpt: "Weekly newsletter. Learn skills fast. Live rich. Live fit. Live smart"
+excerpt: "Weekly newsletter to accelerate growth."
 header:
   overlay_image: /assets/images/book.notes.jpg
   overlay_filter: 0.5
@@ -14,13 +14,11 @@ Author_profile: true
 Share: true
 ---
 
-I share **3** tools **each** week for you to add to your arsenal of skills to get richer, fitter and smarter.
+## 3-Tool Tuesday
 
-It can be a productivity app, a book I love, financial tricks, an investment tip, a healthy recipe, an inspirational quote, a gadget, a workout program. 
+I share tools weekly for you to expand your arsenal of skills to get richer, fitter and smarter.
 
-The weekly newsletter has no fluff, all wisdom.
+It covers topics that can include a productivity app, a book I love, financial tricks, an investment tip, a healthy recipe, an inspirational quote, a gadget, a workout program and more. 
 
-[Join](http://eepurl.com/g7u8ez) me in this journey to build our own empire.
-
-Click [Subscribe](http://eepurl.com/g7u8ez).
+[Subscribe now and join me on this journey.](http://eepurl.com/g7u8ez)
 

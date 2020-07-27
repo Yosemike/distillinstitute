@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quick tool to level up your writing 
+title: Quick tools to level up your writing 
 excerpt: "Connect people with better writing."
 header:
  overlay_image: /assets/images/writing.jpeg

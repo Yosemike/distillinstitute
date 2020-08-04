@@ -127,7 +127,9 @@ A business that doesn’t bring in enough money to maintain operations will clos
 Finance in business isn’t complicated if you focus on what’s important:
 
 • Monitor your cashflow (money in and out)
+
 • Decide how to allocate the money
+
 • Determine if you’re getting the results you want
 
 The best businesses create huge value for their customers, manage expenses accordingly and make more than enough money.

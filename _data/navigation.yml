@@ -2,7 +2,7 @@
 main:
   - title: "Start"
     url: /start/
-  - title: "Learn"
-    url: /learn/
+  - title: #"Learn"
+    url: #/learn/
   - title: "Subscribe"
     url: /subscribe/

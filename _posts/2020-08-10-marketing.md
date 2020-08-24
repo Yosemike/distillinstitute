@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quick Tips on Building Great Brands
+title: Quick tips on building great brands
 excerpt: "Make the Laws of Marketing Work for You"
 header:
  overlay_image: /assets/images/marketing.jpeg

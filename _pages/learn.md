@@ -58,7 +58,9 @@ Who is a Magnate?
 
 ## Money Making
 **Mikey** (Founder of City of Gold)
+
 [Website](http://www.getpaidmore.co/)
+
 [Twitter](https://twitter.com/GetPaidMore)
 
 ## Online Marketing
@@ -101,6 +103,6 @@ Who is a Magnate?
 ## Instagram
 **Pascal**
 [Website](https://t.co/bvnMbPscxV?amp=1)
-[Twitter](https://twitter.com/PascalGrosz) Instagram
+[Twitter](https://twitter.com/PascalGrosz)
 
 

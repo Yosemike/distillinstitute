@@ -52,9 +52,9 @@ Click here to join the City of Gold and learn your way to freedom.
 
 The starting price costs less than 2 cups of coffee.
 
-[Join The City of Gold now!](https://gumroad.com/a/92796019)
+> [Join The City of Gold now!](https://gumroad.com/a/92796019)
 
-Who is a Magnate?
+# Who is a Magnate?
 
 ## Money Making
 **Mikey** (Founder of City of Gold)

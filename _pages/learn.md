@@ -65,44 +65,60 @@ Who is a Magnate?
 
 ## Online Marketing
 **James**
+
 [Website](https://fromclicktosale.com/)
+
 [Twitter](https://twitter.com/fromclicktosale)
 
 ## Pinterest
 **Emily**
+
 [Website](https://theemilydyson.com/)
+
 [Twitter](https://twitter.com/TheEmilyDyson)
 
 ## Trading
 **Joyful Trader**
+
 [Website](https://thejoyfultrader.carrd.co/)
+
 [Twitter](https://twitter.com/TheJoyfulTrader)
 
 ## Copywriting
 **Allen**
+
 [Twitter](https://twitter.com/trainthinkearn)
 
 ## Google Ads
 **Business Theory**
+
 [Twitter](https://twitter.com/Businesstheoryy)
 
 ## Personal Finance
 **Matthias**
+
 [Website](https://t.co/Iovo1mA46y?amp=1)
+
 [Twitter](https://twitter.com/FI_imagineer)
 
 **Justine**
+
 [Website](https://t.co/DNBgqSDtRS?amp=1)
+
 [Twitter](https://twitter.com/justinekedi)
 
 ## Blog Flipping
 **Grant Bartel**
+
 [Website](https://t.co/NVGKetRnwX?amp=1) 
+
 [Twitter](https://twitter.com/grantbartel)
 
 ## Instagram
 **Pascal**
+
 [Website](https://t.co/bvnMbPscxV?amp=1)
+
 [Twitter](https://twitter.com/PascalGrosz)
 
 

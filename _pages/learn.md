@@ -20,7 +20,7 @@ Job promotion, entrepreneurship, getting rich — they all share one thing in co
 
 Skills are essential if you want to get richer, fitter and faster. The quicker you learn a skill, the faster you can live your dreams. Learning is your best chance to freedom and live the life you want.
 
-Enter City of Gold
+## Enter City of Gold
 
 What better way to learn a skill than from experts in their field? My friend Michael Yeung, www.getpaidmore.co, has created a community of experts where they will teach you how to be a specialist in skills to become fitter, richer and smarter.
 

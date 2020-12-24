@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Distill Institute"
 title_separator          : "|"
 subtitle                 : Build systems to learn fast.
 name                     : "Mike"
-description              : "Ways to learn a skill fast to get richer, healthier and smarter. Better skills, better life."
+description              : "Create systems to learn a skill fast for a richer, healthier and smarter life. Better skills, better life."
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"

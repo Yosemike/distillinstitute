@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Distill Institute"
 title_separator          : "|"
-subtitle                 : Richer. Fitter. Smarter.
+subtitle                 : Build systems to learn fast.
 name                     : "Mike"
 description              : "Ways to learn a skill fast to get richer, healthier and smarter. Better skills, better life."
 url                      : "https://distillinstitute.com/"
@@ -80,7 +80,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   :  Person
-  name                   :  Mike Lim
+  name                   :  Distill Mike
   links:
     - "https://twitter.com/distillmike"
     - "https://instagram.com/moolarlar"

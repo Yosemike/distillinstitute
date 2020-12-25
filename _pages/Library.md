@@ -4,7 +4,7 @@ permalink: /library/
 title: "Library"
 excerpt: "Collection of my writings"
 header:
-  overlay_image: /assets/images/library.jpg
+  overlay_image: /assets/images/library.jpeg
   overlay_filter: 0.5
   caption: "Photo credit: [**Gabriel Ghnassia**](https://be.net/gabyfive)"
   actions:

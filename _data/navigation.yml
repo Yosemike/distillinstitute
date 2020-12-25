@@ -4,5 +4,8 @@ main:
     url: /start/
   - title: "Learn"
     url: /learn/
+  - title: "Library"
+    url: /library/
   - title: "Subscribe"
     url: /subscribe/
+ 

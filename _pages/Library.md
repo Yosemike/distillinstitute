@@ -38,7 +38,7 @@ Thinking of a side hustle?
 
 Try these economic value forms that people are willing to pay for.
 
-	## 4. [3 simple options to get rid of a poor life. ](https://twitter.com/distillmike/status/1301123157101748226?s=21)
+## 4. [3 simple options to get rid of a poor life. ](https://twitter.com/distillmike/status/1301123157101748226?s=21)
 
 Start living a richer life. 
 

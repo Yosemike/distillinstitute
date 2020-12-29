@@ -20,7 +20,7 @@ Books are compilation of people’s mistakes and learnings. The more you read, t
 
 If you want to read more but you don’t have enough time in the day, check out Ki Book Club:
 
-> [Ki Book Club](https://kibookclub.tapfiliate.com/programs/ki-book-club-partners/signup/?via=1234666)
+> [Ki Book Club](https://www.kibookclub.com/join/?ref=distillmike)
 
 Ki Book Club has summaries of over a hundred non-fiction books with new summaries being released each week. You can read in on any device (phone, tablet and computer) and any platform (iOS, Android, Windows and Mac). This is my best purchase of 2020, I use it everyday. The link is affiliated and I will get a small cut when you purchase through my link.
 

@@ -1,0 +1,77 @@
+---
+layout: single
+title: 3 Benefits to Keep A Journal 
+excerpt: "Why everyone must keep a journal."
+header:
+ overlay_image: /assets/images/journal.jpg
+ overlay_filter: 0.5
+ caption: "start writing"
+ actions:
+ - label: "Subscribe"
+ url: "http://eepurl.com/g7u8ez"
+date: 2021-01-21
+author_profile: true
+share: true 
+category: lessons
+tags:
+ - tools
+ - writing
+ - learning
+---
+
+# Headline: Why Your Morning Journal Isn’t Working for You?
+
+> “Plans are useless, but planning is indispensable.” 
+> — Dwight D. Eisenhower, 5-Star General of USA Army and 34th POTUS
+
+Life never follows any plan but you always need one. This is why you need a daily journal, a game-plan to win the day. 
+
+While morning journals have been become a trend, many miss the point. They journal because they read that many successful people have this habit. Yet they don’t pay much attention on how to write an effective journal.
+
+You should write your journal in the morning but it is a page that you fill up at a whim and forget about it. A morning journal without a distinct objective or outcome is mere scribbles. 
+
+A great journal helps you differentiate what is important and what isn’t. Your daily journal page is a reference point for you to reset when you’re distracted or when there’s ad-hoc events that occur, it’s for you to gauge if you’re making progress towards your objectives. 
+
+A journal without clear actions is scattered thoughts, you won’t be primed to win the day. 
+
+## Why Journal
+
+Your journal is your game plan for the day. You position yourself ahead of your competition with a journal for three reasons. 
+
+### 1. Clear the fog in your head.
+
+There’s always something in everyone’s mind. If you don’t sort the thoughts out, your mind doesn’t have the breathing room to do what it is designed to do best — think.
+
+When you wake up in the morning and put the pen to paper, you turn the noises in your head into words. Your lingering thoughts and worries disappear when you can identify them. 
+
+You can’t be committed to a collection of vague responsibilities. Writing your goals down help to set things clear.
+
+Once you reset your mind, you are ready for the next benefit of journaling. 
+
+
+You become clearer about how you are feeling in the day when you write them down.
+
+A crucial part of a journal is that you must have a mindset check, to ask yourself, how you’re feeling. Be honest with yourself, if you’re distracted, say it. Then you can work towards changing the mindset. Self-belief begins by self-acknowledgement. 
+
+### 2. Visualise and win
+
+Plans take shape when you can see them. By writing your journal, you get to envision how you want your day to be. 
+
+What do you want to achieve before lunch? What must you complete before dinner? What are the three things you must do before 12pm? 
+
+Visualise your day. Then execute it like you intend to. Zoom out to see the flow, zoom in to list down the details of your tasks. Once you check off the things you set out to achieve, you position yourself on a path of positive momentum.
+
+If you can imagine the day, you can manifest it. 
+
+### 3.  Let loose your creativity
+
+When you are cleared of unnecessary thoughts, your creativity is liberated from the monkey mind. 
+
+As journaling becomes a habit, you will have a framework for your administrative and creative work. When you fire up your journal, you will know it’s go-time.
+
+Your words will flow, you begin to download your thoughts and visualise your day. 
+
+Then your creative mind will see where to connect the dots. You will have ideas you haven’t had before. 
+
+
+

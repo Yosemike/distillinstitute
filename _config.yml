@@ -24,7 +24,7 @@ description              : "Create systems to learn a skill fast for a richer, h
 url                      : "https://distillinstitute.com/"
 baseurl                  : # "/distillinstitute"
 repository               : "yosemike/distillinstitute"
-teaser                   : # /assets/images/main.page.jpg 
+teaser                   : # /assets/images/main.page.jpg
 logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -298,6 +298,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single 
+      layout: single
       share: true
       author_profile: true
+
+collections:
+  - products

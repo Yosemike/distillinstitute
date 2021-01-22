@@ -5,3 +5,9 @@ classes:
   - landing
   - dark-theme
 ---
+---
+layout: default
+---
+{% for product in site.products %}
+ {% include product.html %}
+{% endfor %}

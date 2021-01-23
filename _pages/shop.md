@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 permalink: /shop/
 title: "Shop"
 excerpt: "Distill Tools"

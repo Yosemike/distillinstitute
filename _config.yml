@@ -230,8 +230,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-collections:
-  - products
 
 # Archives
 #  Type
@@ -303,3 +301,6 @@ defaults:
       layout: single
       share: true
       author_profile: true
+
+collections:
+  - products

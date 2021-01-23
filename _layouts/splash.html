@@ -18,5 +18,11 @@ layout: default
     <section class="page__content" itemprop="text">
       {{ content }}
     </section>
+
+        <div>
+          {% for product in site.products %}
+            {% include product.html %}
+        </div>
+
   </article>
 </div>

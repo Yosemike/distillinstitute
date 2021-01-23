@@ -1,4 +1,4 @@
 ---
-name: jekyll-sticker
+name: Jekyll Sticker
 categories: product
 ---

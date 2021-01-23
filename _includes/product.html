@@ -1,3 +1,10 @@
-<p>
-    Product for sale : {{product.name}}
-</p>
+<figure class="product snipcart-add-item"
+        data-item-id="{{product.id}}"
+        data-item-price="{{product.price}}"
+        data-item-name="{{product.name}}"
+        data-item-url="{{page.url}}"
+        data-item-image="{{product.image}}">
+  <img src="/assets/{{product.image}}" alt="{{product.name}}">
+
+  <<figcaption>{{product.name}}</figcaption>
+</figure>

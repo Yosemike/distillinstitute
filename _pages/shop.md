@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: product
 permalink: /shop/
 title: "Shop"
 excerpt: "Distill Tools"

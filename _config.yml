@@ -302,15 +302,5 @@ defaults:
       share: true
       author_profile: true
 
-defaults:
-  # _products
-  - scope:
-      path: ""
-      type: products
-      values:
-      layout: product
-      share: true
-      author_profile: true
-
 collections:
   - products

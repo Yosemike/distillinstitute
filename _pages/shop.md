@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: splash
 permalink: /shop/
 title: "Shop"
 excerpt: "Distill Tools"
@@ -15,5 +15,3 @@ Share: true
 ---
 
 Coming soon
-
-How is it going?
